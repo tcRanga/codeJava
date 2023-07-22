@@ -2,7 +2,10 @@ public class Student {
     // Private fields
     private String id;
     private String name;
+
     private String email;
+    private String phNo;
+    
     // Setter method for 'name'
     public void setName(String name) {
         this.name = name;
