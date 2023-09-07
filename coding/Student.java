@@ -31,7 +31,7 @@ public class Student {
 
         s.setEmail("RajrangaAmrity@gmail.com");
         System.out.println("ID: " + s.getId() + ", Name: " + s.getName() + ", Email: " + s.getEmail())
-         System.out.println("hello");
+         
 
 
 
